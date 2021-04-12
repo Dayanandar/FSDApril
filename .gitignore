@@ -6,6 +6,7 @@ bin-release/
 File2.txt
 # Other files and folders
 .settings/
+target/
 
 # Executables
 *.swf
